@@ -1,10 +1,10 @@
-curlsha
+urlsha
 =======
 
 ```
-curlsha 1.0.0
+urlsha 1.0.0
 
-Usage: curlsha [-hv] <url> [<curl options>]
+Usage: urlsha [-hv] <url> [<curl options>]
 
 Get the SHA-256 checksum of a file from a URL.
 
